@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BikshalaSandeep/Greeting-react/static/css/main.c6c60b1d.css",
+    "main.js": "/BikshalaSandeep/Greeting-react/static/js/main.fe7f30a8.js",
+    "index.html": "/BikshalaSandeep/Greeting-react/index.html",
+    "main.c6c60b1d.css.map": "/BikshalaSandeep/Greeting-react/static/css/main.c6c60b1d.css.map",
+    "main.fe7f30a8.js.map": "/BikshalaSandeep/Greeting-react/static/js/main.fe7f30a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6c60b1d.css",
+    "static/js/main.fe7f30a8.js"
+  ]
+}
